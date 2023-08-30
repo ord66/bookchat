@@ -42,3 +42,4 @@ typing_extensions==4.5.0
 tzdata==2023.3
 urllib3==1.26.15
 yarl==1.9.2
+streamlit-chat==0.1.1
